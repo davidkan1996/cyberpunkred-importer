@@ -1,5 +1,5 @@
 {
-  "id": "cyberpunkred-importer",
+  "id": "cyberpunk-red-importer",
   "title": "Cyberpunk RED Importer",
   "description": "Import character data from cyberpunkred.com",
   "version": "#{VERSION}#",
